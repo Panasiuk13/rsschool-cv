@@ -1,6 +1,6 @@
 # **Anna Panasiuk**
 
-## **Junior Frontend Developer
+## **Junior Frontend Developer**
 
 **E-mail:** anna.panasiuk01@gmail.com  
 
