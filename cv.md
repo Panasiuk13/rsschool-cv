@@ -51,4 +51,4 @@ CSS/HTML Mobile phone repair site
 JavaSript SPA for maintaining income and expenses
 React.js weather forecast
 
-**March 2022** RS-School JS/Frontend stage#0
+**March 2022** RS-School JS/Frontend
