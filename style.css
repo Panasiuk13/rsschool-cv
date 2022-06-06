@@ -4,9 +4,11 @@
 }
 
 body{
-    background-color: bisque;
+    background-color: hsl(157, 94%, 55%);
 }
-div{
-   font-size: 35px;
-   color: palegreen;
+
+.logo{
+    width: 30px;
+    height: 30px;
+
 }
