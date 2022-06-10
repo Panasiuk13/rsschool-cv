@@ -4,11 +4,5 @@
 }
 
 body{
-    max-width: 1200px;
+    width: 1200px;
 }
-
-img{
-    width: 30px;
-    border: 50%;
-}
-
