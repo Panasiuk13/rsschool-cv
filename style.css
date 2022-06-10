@@ -3,10 +3,6 @@
     padding: 0;
 }
 
-body{
-    width: 1200px;
-}
-
 .header{
     display: flex; 
     width: 595px;
@@ -18,13 +14,23 @@ img{
     top:36;
     border-radius: 50px;
     width:104px;
-    height: 104px;}
+    height: 104px;
+}
 
 .name{
     font-size: 20px; 
-    font-weight: bold;}
+    font-weight: bold;
+}
 
 .job{
     color:#e9925f;
     font-size: 18px; 
-    font-weight: bold;}
+    font-weight: bold;
+}
+
+p{
+    font-size: 16px;
+    flex-wrap: wrap;
+    width: 595px;
+}
+
